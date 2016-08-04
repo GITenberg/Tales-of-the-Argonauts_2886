@@ -1,0 +1,31 @@
+_repo: Tales-of-the-Argonauts_2886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories'
+- !lcsh 'Western stories'
+- GITenberg
+tableOfContents: The rose of Tuolumne -- A passage in the life of Mr. John Oakhurst
+  -- Wan Lee, the pagan -- How old man Plunkett went home -- The fool of Five Forks
+  -- Baby Sylvester -- An episode of Fiddletown -- A Jersey centenarian.
+title: Tales of the Argonauts
+url: http://www.gutenberg.org/ebooks/2886
